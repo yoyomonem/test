@@ -21,3 +21,4 @@ def make(obj_c):
         time.sleep(2)
         print("This is an incorrect answer!")
         print("You're banned from here!")
+make(obj_c="yes")

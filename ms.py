@@ -15,6 +15,6 @@ def make(obj_c, see_if_is_found):
         print("Physical memory dump complete.")
         print("Then we begin to \"Make\".")
         time.sleep(3)
+        print("Make: Cannot access *.mk/Makefile: access denied.")
     else:
         print("Abort.")
-make("yes", "yes")

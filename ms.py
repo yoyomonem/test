@@ -1,6 +1,6 @@
 import time
-from random import randint
 def tech(trigger):
+    print("Source: " + trigger + "()")
     print("We are Microsoft. We make technology.")
 def make(obj_c, see_if_is_found):
     tech("make")

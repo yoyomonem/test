@@ -3,7 +3,7 @@ from random import randint
 def tech(trigger):
     print("We are Microsoft. We make technology.")
 def make(obj_c, see_if_is_found):
-    tech()
+    tech("make")
     answer = input("Objective-C is good. Do you want to make it? (Y/n) ")
     if answer == "Y" or answer == "y":
         print("Good choice. Let's get going to Make.")

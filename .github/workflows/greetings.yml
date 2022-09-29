@@ -1,4 +1,4 @@
-name: Greetings
+name: Greetings! This is very good
 
 on: [pull_request, issues]
 
